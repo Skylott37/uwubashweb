@@ -29,6 +29,7 @@ body {
     color: antiquewhite;
     margin: 0;
     padding: 0;
+    display: block;
 }
 
 .code {
@@ -38,5 +39,9 @@ body {
     text-align: left;
     padding: 20px;
     width: 300px;
+    display: inline-block;
     
+}
+a {
+    color: plum;
 }
